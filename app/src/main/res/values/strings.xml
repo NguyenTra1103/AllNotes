@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Note_app</string>
+    <string name = "hello">HELLO</string>
+    <string name= "user_name">Your name</string>
+    <string name = "nav_drawer_open"> Open navigation drawer</string>
+    <string name = "nav_drawer_close">Close navigation drawer</string>
+    <string name="your_note">Your notes</string>
+    <string name="title">Text</string>
+    <string name="description">Mô tả</string>
+    <string name="Google">Đăng nhập với Google</string>
+    <string name="Log_up">Tạo tài khoản mới</string>
+</resources>

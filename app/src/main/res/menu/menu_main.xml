@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:title="Home"
+            android:icon="@drawable/ic_homepage"/>
+        <item
+            android:id="@+id/nav_text"
+            android:title="Text" />
+<!--            android:icon=""/>-->
+
+        <item
+            android:id="@+id/nav_image"
+            android:title="Image"/>
+<!--            android:icon=""/>-->
+        <item
+            android:id="@+id/nav_draw"
+            android:title="Draw"/>
+<!--            android:icon=""/>-->
+        <item
+            android:id="@+id/nav_sound"
+            android:title="Sound"/>
+<!--            android:icon=""/>-->
+    </group>
+    <group android:checkableBehavior="single">
+        <item
+            android:title="Profile">
+            <menu>
+                <item android:id="@+id/nav_profile"
+                    android:title="Profile"/>
+
+            </menu>
+        </item>
+
+    </group>
+    <group android:checkableBehavior="single">
+        <item
+            android:title="">
+            <menu>
+                <item android:id="@+id/bin"
+                    android:title="Trash"/>
+                <item android:id="@+id/nav_set"
+                    android:title="Setting"/>
+                <item android:id="@+id/nav_logout"
+                    android:title="Log out"/>
+            </menu>
+        </item>
+    </group>
+</menu>
