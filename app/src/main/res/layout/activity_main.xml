@@ -12,6 +12,9 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="bottom|end"
+        android:backgroundTint="@color/purple_700"
         android:clickable="true"
+        app:fabCustomSize="150px"
+        app:maxImageSize="80px"
         app:srcCompat="@drawable/ic_floating" />
 </androidx.coordinatorlayout.widget.CoordinatorLayout>

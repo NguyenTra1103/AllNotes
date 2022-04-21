@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.Material3.Light.NoActionBar">
+        <item name="android:colorBackground">@color/purple_200</item>
+    </style>
+    <style name="ShapeAppearanceOverlay.Avatar" parent="ShapeAppearance.Material3.SmallComponent">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+</resources>

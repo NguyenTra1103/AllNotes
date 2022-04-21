@@ -22,6 +22,23 @@
         <entry key="..\:/Lap-trinh-ung-dung-2/Notez/app/src/main/res/menu/menu_main.xml" value="0.20416666666666666" />
         <entry key="..\:/Lap-trinh-ung-dung-2/Notez/app/src/main/res/mipmap-anydpi-v26/ic_userava.xml" value="0.1125" />
         <entry key="..\:/Lap-trinh-ung-dung-2/Notez/app/src/main/res/mipmap-anydpi-v26/ic_userava_round.xml" value="0.1125" />
+        <entry key="..\:/NotieApp/app/src/main/res/drawable-anydpi/ic_mic.xml" value="0.1" />
+        <entry key="..\:/NotieApp/app/src/main/res/drawable/customborder.xml" value="0.1" />
+        <entry key="..\:/NotieApp/app/src/main/res/drawable/media_header_bgr.xml" value="0.1" />
+        <entry key="..\:/NotieApp/app/src/main/res/drawable/player_bgr.xml" value="0.1" />
+        <entry key="..\:/NotieApp/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/NotieApp/app/src/main/res/layout/activity_sound.xml" value="0.20416666666666666" />
+        <entry key="..\:/NotieApp/app/src/main/res/layout/cate_detail.xml" value="0.20416666666666666" />
+        <entry key="..\:/NotieApp/app/src/main/res/layout/content_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/NotieApp/app/src/main/res/layout/fragment_sound.xml" value="0.2" />
+        <entry key="..\:/NotieApp/app/src/main/res/layout/fragment_sound_list.xml" value="0.15454545454545454" />
+        <entry key="..\:/NotieApp/app/src/main/res/layout/header.xml" value="0.20416666666666666" />
+        <entry key="..\:/NotieApp/app/src/main/res/layout/items_detail.xml" value="0.20416666666666666" />
+        <entry key="..\:/NotieApp/app/src/main/res/layout/player_sheet.xml" value="0.11295681063122924" />
+        <entry key="..\:/NotieApp/app/src/main/res/layout/sign_up_activity.xml" value="0.1" />
+        <entry key="..\:/NotieApp/app/src/main/res/layout/signin_activity.xml" value="0.20416666666666666" />
+        <entry key="..\:/NotieApp/app/src/main/res/layout/text_activity.xml" value="0.22" />
+        <entry key="..\:/NotieApp/app/src/main/res/menu/menu_main.xml" value="0.1" />
       </map>
     </option>
   </component>
